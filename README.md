@@ -13,5 +13,6 @@ Visualizations based on analysis, Dashboards and the Tableau story board can be 
 The following are also included with this submission: 
 
 * A link to your Tableau Public workbook
+* A Tableau Workbook 
 * A  markdown file with brief discussions on the phenomenons that were observed from the data.
 * A ipynb file (jupyter notebook) for data cleaning and formatting.
