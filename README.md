@@ -8,7 +8,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Analysis and Report Submission 
 
-Visualizations based on analysis, Dashboards and the Tableau story board can be viewed from [Citibike Analytics Tableau]  https://public.tableau.com/app/profile/posh.sue6229/viz/Citibike-challenge/Story1
+Visualizations based on analysis, Dashboards and the Tableau story board can be viewed from [Citibike Analytics Tableau](https://public.tableau.com/app/profile/posh.sue6229/viz/Citibike-challenge/Story1) webpage.  
 
 The following are also included with this submission: 
 
